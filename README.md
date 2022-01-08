@@ -1,5 +1,5 @@
 ### Hi there 👋
-Let me tell you little things abaot me:
+Let me tell you little things about me:
 - 🔭 I’m currently studying on Information Engineering Gadjah Mada University
 - 🌱 I’m currently learning C++, python, HTML, and CSS
 - 🤔 I’m looking for help with C++ programing task and web developing (HTML/CSS)
